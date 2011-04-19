@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DropboxTestApp", "DropboxTestApp\DropboxTestApp.csproj", "{F5DBDC75-5C62-49A0-A38B-8A2AEED60551}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DropNet.MonoTouch", "..\DropNet\DropNet.MonoTouch\DropNet.MonoTouch.csproj", "{32171778-FC7B-4D01-9CF1-F6635DF9984A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Release|iPhone = Release|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32171778-FC7B-4D01-9CF1-F6635DF9984A}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{32171778-FC7B-4D01-9CF1-F6635DF9984A}.Debug|iPhone.Build.0 = Debug|iPhone
+		{32171778-FC7B-4D01-9CF1-F6635DF9984A}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{32171778-FC7B-4D01-9CF1-F6635DF9984A}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{32171778-FC7B-4D01-9CF1-F6635DF9984A}.Release|iPhone.ActiveCfg = Release|iPhone
+		{32171778-FC7B-4D01-9CF1-F6635DF9984A}.Release|iPhone.Build.0 = Release|iPhone
+		{32171778-FC7B-4D01-9CF1-F6635DF9984A}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{32171778-FC7B-4D01-9CF1-F6635DF9984A}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{F5DBDC75-5C62-49A0-A38B-8A2AEED60551}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{F5DBDC75-5C62-49A0-A38B-8A2AEED60551}.Debug|iPhone.Build.0 = Debug|iPhone
+		{F5DBDC75-5C62-49A0-A38B-8A2AEED60551}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{F5DBDC75-5C62-49A0-A38B-8A2AEED60551}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{F5DBDC75-5C62-49A0-A38B-8A2AEED60551}.Release|iPhone.ActiveCfg = Release|iPhone
+		{F5DBDC75-5C62-49A0-A38B-8A2AEED60551}.Release|iPhone.Build.0 = Release|iPhone
+		{F5DBDC75-5C62-49A0-A38B-8A2AEED60551}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{F5DBDC75-5C62-49A0-A38B-8A2AEED60551}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = DropboxTestApp\DropboxTestApp.csproj
+	EndGlobalSection
+EndGlobal
